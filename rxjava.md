@@ -1,4 +1,4 @@
-# Working of doonnext/map/create/just of observables
+# Working of doonnext / map / create / just of observables
 
 # Observation 1
 ```
